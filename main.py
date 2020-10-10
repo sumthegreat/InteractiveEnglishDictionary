@@ -17,4 +17,4 @@ if results:
     for result in results:
         print(result[1])
 else:
-    print("No such word found!!!!")
+    print("The entered word doesn't exist in the data store. Kindly recheck it.")
